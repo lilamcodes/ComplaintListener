@@ -2,7 +2,7 @@
 
 The actual code is the complaintlistener.js
 
-All other files uploaded were the free resources from amazon to help walk me through creating the app.  Instead of linking the resources I reuploaded here for reference, since I don't remember the link to get these resources. 
+All other files uploaded were the free resources from amazon I used to walk me through creating the app.  Instead of linking the resources I reuploaded here for reference, since I don't remember the link/where to get these resources. 
 
 
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/fact/header._TTH_.png" />
